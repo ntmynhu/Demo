@@ -1,3 +1,3 @@
 # Demo
-HuHuHu \n
+HuHuHu
 Haha
